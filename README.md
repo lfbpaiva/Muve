@@ -19,7 +19,6 @@ Bem-vindo ao **Muve App**, um aplicativo desenvolvido em Flutter com foco em fac
 
 <img src="assets/images/muvelogo.png" alt="Logo Muve" width="200">
 
-*Dica: Substitua por prints do app em funcionamento ou mockups.*
 
 ---
 
