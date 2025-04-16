@@ -46,9 +46,13 @@ flutter pub get
 
 # Execute o projeto
 flutter run
+````
 
-📁 Estrutura de Pastas
+---
 
+## 📁 Estrutura de Pastas
+
+```bash
 muve-app/
 ├── assets/
 │   └── images/
@@ -58,9 +62,15 @@ muve-app/
 │   └── main.dart               # Tela de login + inicialização do app
 ├── pubspec.yaml                # Configurações do projeto e pacotes
 └── README.md                   # Documentação do projeto
+```
 
-📄 Licença
+---
+
+## 📄 Licença
+
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-👨‍💻 Autor
+---
+
+## 👨‍💻 Autor
 Desenvolvido por @lfbpaiva 💜
